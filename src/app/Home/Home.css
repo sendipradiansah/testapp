@@ -1,0 +1,17 @@
+.contentHome{
+    width: 100%;
+    margin-top: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    text-align: center;
+    border-radius: 10px;
+    background-color: #f2f0f0;
+    opacity: 0.5;
+    padding: 100px 300px;
+    box-shadow: 5px 5px 15px 5px #888888;
+}

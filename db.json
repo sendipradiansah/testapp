@@ -1,0 +1,39 @@
+{
+  "mahasiswa": [
+    {
+      "id": "ab34",
+      "nim": "BDE454",
+      "nama": "Ardi",
+      "alamat": "Yogyakarta",
+      "jurusan": "Manajemen Informatika"
+    },
+    {
+      "id": "3ef1",
+      "nim": "BCE234",
+      "nama": "Joko",
+      "alamat": "Jakarta",
+      "jurusan": "Hukum"
+    },
+    {
+      "id": "80c9",
+      "nim": "DFG456",
+      "nama": "Hanif",
+      "alamat": "Sumedang",
+      "jurusan": "Manajemen Informatika"
+    },
+    {
+      "id": "cbe1",
+      "nim": "BFH675",
+      "nama": "Rudi",
+      "alamat": "Banten",
+      "jurusan": "Teknik Mesin"
+    },
+    {
+      "id": "3347",
+      "nim": "TYR123",
+      "nama": "Beni",
+      "alamat": "Banyumas",
+      "jurusan": "Akuntansi"
+    }
+  ]
+}
