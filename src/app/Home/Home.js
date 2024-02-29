@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { UseDispatch, useDispatch, useSelector } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import { getMahasiswa, mahasiswaSelector } from "../../features/mahasiswaSlice";
 import './Home.css';
 
